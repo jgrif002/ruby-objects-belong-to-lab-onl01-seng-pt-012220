@@ -1,3 +1,3 @@
-class assert_routing
+class Song 
   attr_accessor :title 
 end 
